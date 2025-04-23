@@ -3,6 +3,8 @@
 
 This project consists of a Power BI report designed to analyze and monitor delinquency among tenants in a large retail network. The analysis was based on structured data extracted and transformed via SQL, ensuring accurate information on due amounts, payments, renegotiations, and duplications. Key KPIs include overdue balances, collection efficiency, and aging buckets. The dashboard provides a clear and dynamic view of the financial status of each tenant, supporting strategic decision-making for credit control and recovery actions. This solution helped bring transparency to the delinquency process and aligned the financial team with up-to-date and reliable insights.
 
+## Dashboard Link: https://app.powerbi.com/reportEmbed?reportId=a8e65e68-84b0-4f97-8619-23f7fa4f7bb9&autoAuth=true&ctid=7dc647e5-6288-496e-9c52-70467492ebf3
+
 ![Image](https://infoxnet.com.br/storage/posts/imagem.blog_-1.png)
 
 ## Problem to be Solved
